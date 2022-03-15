@@ -20,11 +20,16 @@ Here are some ideas to get you started:
 
 <br />
 
-👋  Hi there! I'm mobile app developer using Android and iOS. 🚀
-Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖
+<div align="center">
+👋  Hi there! I'm FullStack developer. 🚀
+
+<!-- Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖 -->
 
 I enjoy hiking, swimming, dive and surf. ⛰ 🏄
 I hope to develop every beautiful things. ✨
+
+</div>
+
 
 <br />
 
@@ -38,21 +43,49 @@ I hope to develop every beautiful things. ✨
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express.js-ffb13b?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Gin/gonic-20b2aa?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-007396?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ethereum-gray?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Klaytn-d2691e?style=flat-square&logo=Kakao&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-20b2aa?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-6DB33F?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/IPFS-20b2aa?style=flat-square&logo=IPFS&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/AWS-d2691e?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-333664?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
   
 </p>
 
 <br>
+
+<h3 align="center">🌱 DevOps 🌱</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-d2691e?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Visual Studio Code-37A7F0?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
+  
+  
+</p>
+
+
+<br>
+
+
+<h3 align="center">🔭 Business Tool 🔭</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Trello-2278C0?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Miro-FBCF03?style=flat-square&logo=Miro&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Jira-1E52CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Swagger-6D9A01?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp
+  
+  
+</p>
+
+
+
 
 <!-- <h3 align="center">📄 Blog 📄</h3>
 
@@ -65,21 +98,19 @@ I hope to develop every beautiful things. ✨
   
 <br>
 
+<div align="center">
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=muse9312)
 
+</div>
+
 <br>
 <br>
 
 
 
 
-![muse9312's GitHub stats](https://github-readme-stats.vercel.app/api?username=muse9312&show_icons=true&theme=radical)[![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeong-jang-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/muse9312)
-
-
-
-
-
-
+![muse9312's GitHub stats](https://github-readme-stats.vercel.app/api?username=muse9312&show_icons=true&theme=radical)[![muse9312's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muse9312&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/muse9312)
 
 
 
