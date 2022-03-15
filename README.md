@@ -1,5 +1,5 @@
 
-<!--
+<!-- 
 **muse9312/muse9312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,10 +11,22 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
+<br />
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=fbceb1&height=150&section=header&text=Oh%20Se%20Won&fontSize=70&animation=twinkling)
+
+<br />
+
+👋  Hi there! I'm mobile app developer using Android and iOS. 🚀
+Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖
+
+I enjoy hiking, swimming, dive and surf. ⛰ 🏄
+I hope to develop every beautiful things. ✨
+
+<br />
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
@@ -53,16 +65,31 @@ Here are some ideas to get you started:
   
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muse9312&show_icons=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=muse9312)
 
-A
+<br>
+<br>
+
+
+
+
+![muse9312's GitHub stats](https://github-readme-stats.vercel.app/api?username=muse9312&show_icons=true&theme=radical)[![sujeong-jang-creator's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeong-jang-creator&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/muse9312)
+
+
+
+
+
+
+
+
+
 <br>
 
 
 <h3 align="center"> 💁 SNS </h3>
 <p align="center">
   <a href="https://velog.io/@zzase"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link="/></a>&nbsp
-  <a href="https://www.instagram.com/zza._.se/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_majestyharia/"/></a>&nbsp
+  <a href="https://www.instagram.com/_majestyharia/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_majestyharia/"/></a>&nbsp
   <a href="mailto:wushuchjdhtpdnjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wushuchjdhtpdnjs@gmail.com"/></a>
 </p>
 <br>
