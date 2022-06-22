@@ -47,7 +47,6 @@ I hope to develop every beautiful things. ✨
   <img src="https://img.shields.io/badge/Mysql-007396?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-20b2aa?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-6DB33F?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/IPFS-20b2aa?style=flat-square&logo=IPFS&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/AWS-d2691e?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-333664?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
