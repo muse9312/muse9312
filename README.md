@@ -1,5 +1,4 @@
-
-<!-- 
+<!--
 **muse9312/muse9312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
 
 <br />
 
@@ -30,17 +28,12 @@ I hope to develop every beautiful things. ✨
 
 </div>
 
-
 <br />
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Express.js-ffb13b?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <br>
@@ -51,9 +44,7 @@ I hope to develop every beautiful things. ✨
   <br>
   <img src="https://img.shields.io/badge/AWS-d2691e?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-333664?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
-  
 </p>
-
 
 <h3 align="center">🌱 DevOps 🌱</h3>
 
@@ -63,9 +54,6 @@ I hope to develop every beautiful things. ✨
   
   
 </p>
-
-
-
 
 <h3 align="center">🔭 Business Tool 🔭</h3>
 
@@ -80,18 +68,15 @@ I hope to develop every beautiful things. ✨
   
 </p>
 
-
-
-
 <!-- <h3 align="center">📄 Blog 📄</h3>
 
 <div align="center" style="text-align:center">
-  
+
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzase&tag=블록체인)](https://velog.io/@zzase)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=zzase&tag=go)](https://velog.io/@zzse)
-  
+
 </div> -->
-  
+
 <br>
 
 <div align="center">
@@ -103,15 +88,9 @@ I hope to develop every beautiful things. ✨
 <br>
 <br>
 
-
-
-
 ![muse9312's GitHub stats](https://github-readme-stats.vercel.app/api?username=muse9312&show_icons=true&theme=radical)[![muse9312's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muse9312&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical)](https://github.com/muse9312)
 
-
-
 <br >
-
 
 <h3 align="center"> 💁 SNS </h3>
 <p align="center">
@@ -120,5 +99,3 @@ I hope to develop every beautiful things. ✨
   <a href="mailto:wushuchjdhtpdnjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wushuchjdhtpdnjs@gmail.com"/></a>
 </p>
 <br>
-
-
