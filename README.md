@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 <!-- Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖 -->
 
-I enjoy hiking, swimming, dive and surf. ⛰ 🏄
 I hope to develop every beautiful things. ✨
 
 </div>
