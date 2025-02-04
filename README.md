@@ -56,7 +56,6 @@ I hope to develop every beautiful things. ✨
 <h3 align="center">🔭 Business Tool 🔭</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Trello-2278C0?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Miro-FBCF03?style=flat-square&logo=Miro&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jira-1E52CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swagger-6D9A01?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp
